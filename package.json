@@ -1,7 +1,4 @@
 {
-  "name": "food-project",
-  "homepage": "https://michey85.github.io/react-food/",
-  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
