@@ -1,5 +1,7 @@
 # React Food App
 
+Simple SPA based on ReactJS. Course project.
+
 ## Available Scripts
 
 In the project directory, you can run:
