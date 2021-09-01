@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ereburg/cp-react-food/static/css/main.00bac8be.chunk.css",
-    "main.js": "/ereburg/cp-react-food/static/js/main.58dee30b.chunk.js",
-    "main.js.map": "/ereburg/cp-react-food/static/js/main.58dee30b.chunk.js.map",
-    "runtime-main.js": "/ereburg/cp-react-food/static/js/runtime-main.bef6402a.js",
-    "runtime-main.js.map": "/ereburg/cp-react-food/static/js/runtime-main.bef6402a.js.map",
-    "static/js/2.bb47b71f.chunk.js": "/ereburg/cp-react-food/static/js/2.bb47b71f.chunk.js",
-    "static/js/2.bb47b71f.chunk.js.map": "/ereburg/cp-react-food/static/js/2.bb47b71f.chunk.js.map",
+    "main.js": "/ereburg/cp-react-food/static/js/main.a43cf232.chunk.js",
+    "main.js.map": "/ereburg/cp-react-food/static/js/main.a43cf232.chunk.js.map",
+    "runtime-main.js": "/ereburg/cp-react-food/static/js/runtime-main.e14a1939.js",
+    "runtime-main.js.map": "/ereburg/cp-react-food/static/js/runtime-main.e14a1939.js.map",
+    "static/js/2.e48248d2.chunk.js": "/ereburg/cp-react-food/static/js/2.e48248d2.chunk.js",
+    "static/js/2.e48248d2.chunk.js.map": "/ereburg/cp-react-food/static/js/2.e48248d2.chunk.js.map",
     "index.html": "/ereburg/cp-react-food/index.html",
     "static/css/main.00bac8be.chunk.css.map": "/ereburg/cp-react-food/static/css/main.00bac8be.chunk.css.map",
-    "static/js/2.bb47b71f.chunk.js.LICENSE.txt": "/ereburg/cp-react-food/static/js/2.bb47b71f.chunk.js.LICENSE.txt"
+    "static/js/2.e48248d2.chunk.js.LICENSE.txt": "/ereburg/cp-react-food/static/js/2.e48248d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bef6402a.js",
-    "static/js/2.bb47b71f.chunk.js",
+    "static/js/runtime-main.e14a1939.js",
+    "static/js/2.e48248d2.chunk.js",
     "static/css/main.00bac8be.chunk.css",
-    "static/js/main.58dee30b.chunk.js"
+    "static/js/main.a43cf232.chunk.js"
   ]
 }
