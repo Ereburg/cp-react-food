@@ -64,7 +64,7 @@ function Recipe() {
                 src={`https://www.youtube.com/embed/${recipe.strYoutube.slice(
                   -11
                 )}`}
-                allowfullscreen
+                allowFullScreen
               />
             </div>
           ) : null}
