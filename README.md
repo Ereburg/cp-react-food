@@ -6,5 +6,5 @@ To start project in dev mode:
 $ yarn start
 ```
 
-[comment]: <> (## Demo)
-[comment]: <> ([Demo]&#40;https://ereburg.github.io/react-food/&#41;.)
+## Demo
+[Demo](https://michey85.github.io/react-food/).
